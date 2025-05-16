@@ -103,7 +103,7 @@ Backend/
 
 ## 📝 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
 
 
 
@@ -159,10 +159,6 @@ A modern, responsive job portal frontend built with React, Vite, and Tailwind CS
    ```bash
    npm install
    ```
-4. Create a `.env` file in the root directory with the following variables:
-   ```
-   VITE_API_URL=http://localhost:5000/api
-   ```
 
 ## 🚀 Running the Application
 
@@ -215,12 +211,6 @@ The project uses a combination of:
 - Persistent login state
 - Role-based access control
 
-## 📱 Responsive Design
-
-- Mobile-first approach
-- Responsive layouts
-- Adaptive components
-- Touch-friendly interfaces
 
 ## 🤝 Contributing
 
